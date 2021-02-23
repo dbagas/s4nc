@@ -1,15 +1,12 @@
 @extends('layout.v_template')
 @section('content')
-<section class="welcome_area p_120">         
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
+
+<section class="welcome_area p_120">      
+     
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">        
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100"  data-aos="fade" src="{{asset('templates')}}/img/S4nc.png" alt="First slide">
+            <img class="d-block w-100" data-aos="fade" src="{{asset('templates')}}/img/S4nc2.png" height ="580px" alt="First slide" >
             <div class="carousel-caption d-none d-md-block ">
               <div class="slide">
                 <h1 class="text-uppercase" data-aos="fade-up">S4NC</h1>
@@ -20,7 +17,7 @@
             </div> 
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="{{asset('templates')}}/img/S4nc.png" alt="Second slide">
+            <img class="d-block w-100" src="{{asset('templates')}}/img/S4nc2.png" height ="580px"alt="Second slide">
             <div class="carousel-caption d-none d-md-block ">
               <div class="slide">
                 <h1 class="text-uppercase" data-aos="fade-up">S4NC</h1>
@@ -31,7 +28,7 @@
             </div> 
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="{{asset('templates')}}/img/S4nc.png" alt="Third slide">
+            <img class="d-block w-100" src="{{asset('templates')}}/img/S4nc2.png" height ="580px"alt="Third slide">
             <div class="carousel-caption d-none d-md-block ">
               <div class="slide">
                 <h1 class="text-uppercase" data-aos="fade-up">S4NC</h1>
@@ -42,7 +39,7 @@
             </div> 
           </div>
         </div>
-        <a class="carousel-control-prev" href="next" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
         </a>
@@ -51,13 +48,8 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-      <div class="carousel-item">
-        <img src="..." alt="...">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>tes</h5>
-          <p>tes</p>
-        </div>
-      </div>
+    
+    
 </section>
       
       

@@ -38,12 +38,11 @@
                       
         
         <!--================Testimonials Area =================-->
-        <section class="testimonials_area p_120">
+        <section class="testimonials_area">
         	<div class="container">
         		<div class="main_title">
         			<h2>Testimonials</h2>
-        			<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may see some for as low as $.17 each.</p>
-        		</div>
+        			</div>
         		<div class="testi_inner">
 					<div class="testi_slider owl-carousel">
 						<div class="item">
@@ -82,8 +81,8 @@
 						</div>
 						<div class="item">
 							<div class="testi_item">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel across her face</p>
-								<h4>Ilham Rifky</h4>
+								<p>Dimas orangnya santai dan setia kawan. Gak pernah ada masalah sama orang lain. Minusnya main dota kadang noobs wkwkwk.
+									<h4>Ilham Rifky</h4>
 								<a href="#"><i class="fa fa-star"></i></a>
 								<a href="#"><i class="fa fa-star"></i></a>
 								<a href="#"><i class="fa fa-star"></i></a>
@@ -106,9 +105,15 @@
         			<div class="col-lg-5 col-sm-6">
         				<aside class="f_widget ab_widget">
         					<div class="f_title">
-        						<h3>About Me</h3>
-        					</div>
-        					<p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,</p>
+        						<h3>About</h3>
+							</div>
+							<ul class="nav navbar-nav menu_nav ml-auto">
+								<li class="nav-item active"><a class="nav-link" href="/home">Home</a></li> 
+								<li class="nav-item"><a class="nav-link" href="/about">About</a></li> 
+								<li class="nav-item"><a class="nav-link" href="https://discord.com/invite/K7wq9Ah">Discord</a>						
+								<li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+							</ul>
+        					
         					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Team S4NC
 </p>        				</aside>
@@ -139,8 +144,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         					<ul class="list">
         						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
         						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        						<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-        						<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+        						<li><a href="https://www.instagram.com/teams4nc/"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fa fa-discord"></i></a></li>
         					</ul>
         				</aside>
         			</div>

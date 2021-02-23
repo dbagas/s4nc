@@ -18,17 +18,17 @@
 </section>
 <!--================End Home Banner Area =================-->
 <!--================Welcome Area =================-->
-<section class="welcome_area p_120">
+<section class="welcome_area p_120" >
     <div class="container">
         <div class="row welcome_inner">
             <div class="col-lg-12">
                 <div class="welcome_text">
                     <h4>About Team S4NC</h4>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt, eros vel dignissim congue, dolor massa efficitur risus, et semper mauris augue eget magna. Duis scelerisque arcu non quam feugiat mollis. Suspendisse vel nisi sed nulla egestas fermentum suscipit nec sem. Duis imperdiet dolor nec erat bibendum bibendum. Aliquam erat volutpat. Vivamus elementum posuere quam, non congue nibh mollis non. Mauris gravida quam in tempor porta. Morbi diam tellus, posuere quis finibus vitae, dapibus sit amet magna. Vivamus rhoncus elit et urna pulvinar consequat. Suspendisse eleifend, lectus vel interdum ultrices, nibh lacus ultrices nunc, a gravida augue metus ut nunc. Nullam et dignissim diam, vel dapibus mauris. Aenean elementum orci nibh, quis blandit risus aliquet rhoncus. Cras at elit quam. Donec nec aliquet justo, ut euismod urna.
-
-                    Etiam ac maximus sem. Aliquam erat volutpat. Duis fringilla lorem nec nulla tincidunt, quis pellentesque libero laoreet. Morbi sit amet luctus nibh, in condimentum sem. Maecenas vulputate pharetra nibh ac gravida. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas consequat, risus eget mattis vehicula, orci mi placerat dui, non dapibus diam turpis eget lorem. Mauris in arcu luctus, tempor nisi a, aliquet felis. Vestibulum posuere elementum dolor. Etiam facilisis enim a ante lobortis maximus. Quisque interdum orci id mi luctus pellentesque. 
-                    <div class="row">
-                        <div class="col-sm-4">
+                    Didirikan pada September 2018, S4NCTUARY adalah Organisasi Esports yang berawal dari sebuah komunitas. Kami lahir dari keyakinan bahwa juara tidak di lahirkan, tetapi diciptakan. Tanpa adanya komunitas sebuah organisasi ini tidak dapat berkembang dan maju. 
+Dengan S4NCTUARY, Selalu menjadi misi kami untuk menemukan setiap talenta muda untuk mencapai tingkat tertinggi dalam permainan kompetitif.
+<br/><br/><br/><br/>
+<div class="row">
+                            <div class="col-sm-4">
                             <div class="wel_item">
                                 <i class="lnr lnr-database"></i>
                                 <h4>$2.5M</h4>

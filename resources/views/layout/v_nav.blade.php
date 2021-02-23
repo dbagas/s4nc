@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container box_1620">
                 <!-- Brand and toggle get grouped for better mobile display -->
-                <a class="navbar-brand logo_h" href="index.html"><img src="" alt="">S4NC</a>
+               <h1> <a class="navbar-brand logo_h" href="/"><img src="" alt="">S4NC</a></h1>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -30,6 +30,9 @@
                             <ul class="dropdown-menu">
                                 <li class="nav-item"><a class="nav-link" href="#">PUBGM</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">DOTA2</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Clash of Clans</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">LOL: Wild Rift</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Mobile Legends</a></li>
                             </ul>
                         </li> 
                         <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>

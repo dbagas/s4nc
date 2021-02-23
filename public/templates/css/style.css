@@ -76,7 +76,7 @@ button:focus {
 
 .p_120 {
   padding-top: 120px;
-  padding-bottom: 120px; }
+  padding-bottom: 100px; }
 
 .pad_top {
   padding-top: 120px; }
@@ -2698,7 +2698,7 @@ h6 {
     margin-top: -30px; }
 
 .welcome_text {
-  margin-top: 45px; }
+  margin-top: 15px; }
   .welcome_text h4 {
     color: #222222;
     font-family: "Heebo", sans-serif;
@@ -2934,7 +2934,7 @@ h6 {
   .testimonials_area.testi_two {
     background: #fff; }
     .testimonials_area.testi_two .testi_inner {
-      margin-top: -20px;
+      margin-top: 20px;
       margin-bottom: -20px; }
     .testimonials_area.testi_two .owl-item {
       padding: 20px 0px; }
